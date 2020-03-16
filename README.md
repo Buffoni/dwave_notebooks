@@ -3,4 +3,4 @@ A collection of notebooks and codes to experiment with D-Wave QPU trough Leap cl
 All the code here is based on Ocean Software and its various tools (https://docs.ocean.dwavesys.com/en/latest/index.html).
 The data and codes in this repository are completely open source and, if you happen to make use of them in any part, please cite the corresponding paper accordingly:
 
-- thermo_annealing: [ENTER PAPER]
+- thermo_annealing: https://arxiv.org/abs/2003.02055
