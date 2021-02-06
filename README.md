@@ -4,4 +4,4 @@ All the code here is based on Ocean Software and its various tools (https://docs
 The data and codes in this repository are completely open source and, if you happen to make use of them in any part, please cite the corresponding paper accordingly:
 
 - thermo_annealing: https://arxiv.org/abs/2003.02055
-- DAR: [INSERT URL]
+- DAR: https://arxiv.org/abs/2011.01076
